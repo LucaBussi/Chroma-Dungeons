@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: b795f4d089a69014a90fd4c92c78d010
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 400349006502852729
+    second: ShrineScreenshot-removebg-preview_0
+  - first:
+      213: 8064019558289994808
+    second: ShrineScreenshot-removebg-preview_1
+  - first:
+      213: 6957235267765815110
+    second: ShrineScreenshot-removebg-preview_2
+  - first:
+      213: 113936879160814822
+    second: ShrineScreenshot-removebg-preview_3
+  - first:
+      213: -3647676762224200944
+    second: ShrineScreenshot-removebg-preview_4
+  - first:
+      213: 4503491110381617094
+    second: ShrineScreenshot-removebg-preview_5
+  - first:
+      213: 4940834766713369374
+    second: ShrineScreenshot-removebg-preview_6
+  - first:
+      213: -820098090666740809
+    second: ShrineScreenshot-removebg-preview_7
+  - first:
+      213: 8424881872610338826
+    second: ShrineScreenshot-removebg-preview_8
+  - first:
+      213: -4012077507561734809
+    second: ShrineScreenshot-removebg-preview_9
+  - first:
+      213: 5047293223056777515
+    second: ShrineScreenshot-removebg-preview_10
+  - first:
+      213: -3481434542801944534
+    second: ShrineScreenshot-removebg-preview_11
+  - first:
+      213: 3151807971730183517
+    second: ShrineScreenshot-removebg-preview_12
+  - first:
+      213: 9148127899897704561
+    second: ShrineScreenshot-removebg-preview_13
+  - first:
+      213: 1705330813107975485
+    second: ShrineScreenshot-removebg-preview_14
+  - first:
+      213: 2980575785446438580
+    second: ShrineScreenshot-removebg-preview_15
+  - first:
+      213: 4722369667984480073
+    second: ShrineScreenshot-removebg-preview_16
+  - first:
+      213: 9040437893486924666
+    second: ShrineScreenshot-removebg-preview_17
+  - first:
+      213: 560069325085033364
+    second: ShrineScreenshot-removebg-preview_18
+  - first:
+      213: 233205775828538770
+    second: ShrineScreenshot-removebg-preview_19
+  - first:
+      213: -1165917381567652275
+    second: ShrineScreenshot-removebg-preview_20
+  - first:
+      213: -999686833455797302
+    second: ShrineScreenshot-removebg-preview_21
+  - first:
+      213: 7465421852077025024
+    second: ShrineScreenshot-removebg-preview_22
+  - first:
+      213: 2665308903260142456
+    second: ShrineScreenshot-removebg-preview_23
+  - first:
+      213: -4139300047596446882
+    second: ShrineScreenshot-removebg-preview_24
+  - first:
+      213: -6422128248288948247
+    second: ShrineScreenshot-removebg-preview_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 335
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97878cedc435e8500800000000000000
+      internalID: 400349006502852729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 334
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8347da1301729ef60800000000000000
+      internalID: 8064019558289994808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 336
+        width: 71
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64740027d901d8060800000000000000
+      internalID: 6957235267765815110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 344
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec6239ecf8c49100800000000000000
+      internalID: 113936879160814822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 334
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013fd2c9f49d06dc0800000000000000
+      internalID: -3647676762224200944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 239
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cffc6bed4d9f7e30800000000000000
+      internalID: 4503491110381617094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 239
+        width: 65
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13b9dbea0f519440800000000000000
+      internalID: 4940834766713369374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 241
+        width: 64
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b335d0b12d6e94f0800000000000000
+      internalID: -820098090666740809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 249
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08219b1d613be470800000000000000
+      internalID: 8424881872610338826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 250
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76db27683cc3258c0800000000000000
+      internalID: -4012077507561734809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 258
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b212985d1769b0640800000000000000
+      internalID: 5047293223056777515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 205
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20048f8ab57fafc0800000000000000
+      internalID: -3481434542801944534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 142
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55d83bb6a87dbb20800000000000000
+      internalID: 3151807971730183517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 215
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1703e392bdda4fe70800000000000000
+      internalID: 9148127899897704561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 217
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3534dbd65d8aa710800000000000000
+      internalID: 1705330813107975485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 223
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b67aa592e12d5920800000000000000
+      internalID: 2980575785446438580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 141
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9475b4e513a398140800000000000000
+      internalID: 4722369667984480073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 141
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73d447ad56167d70800000000000000
+      internalID: 9040437893486924666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 144
+        width: 52
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49349437514c5c700800000000000000
+      internalID: 560069325085033364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 144
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29554d3ea638c3300800000000000000
+      internalID: 233205775828538770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ed43a9154d1dfe0800000000000000
+      internalID: -1165917381567652275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 68
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb6b3d1f166022f0800000000000000
+      internalID: -999686833455797302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 68
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0076d77fe918a9760800000000000000
+      internalID: 7465421852077025024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 69
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bb18b73541df420800000000000000
+      internalID: 2665308903260142456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 71
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b9144a9804e86c0800000000000000
+      internalID: -4139300047596446882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShrineScreenshot-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 35
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef4cb2526400e6a0800000000000000
+      internalID: -6422128248288948247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ShrineScreenshot-removebg-preview_0: 400349006502852729
+      ShrineScreenshot-removebg-preview_1: 8064019558289994808
+      ShrineScreenshot-removebg-preview_10: 5047293223056777515
+      ShrineScreenshot-removebg-preview_11: -3481434542801944534
+      ShrineScreenshot-removebg-preview_12: 3151807971730183517
+      ShrineScreenshot-removebg-preview_13: 9148127899897704561
+      ShrineScreenshot-removebg-preview_14: 1705330813107975485
+      ShrineScreenshot-removebg-preview_15: 2980575785446438580
+      ShrineScreenshot-removebg-preview_16: 4722369667984480073
+      ShrineScreenshot-removebg-preview_17: 9040437893486924666
+      ShrineScreenshot-removebg-preview_18: 560069325085033364
+      ShrineScreenshot-removebg-preview_19: 233205775828538770
+      ShrineScreenshot-removebg-preview_2: 6957235267765815110
+      ShrineScreenshot-removebg-preview_20: -1165917381567652275
+      ShrineScreenshot-removebg-preview_21: -999686833455797302
+      ShrineScreenshot-removebg-preview_22: 7465421852077025024
+      ShrineScreenshot-removebg-preview_23: 2665308903260142456
+      ShrineScreenshot-removebg-preview_24: -4139300047596446882
+      ShrineScreenshot-removebg-preview_25: -6422128248288948247
+      ShrineScreenshot-removebg-preview_3: 113936879160814822
+      ShrineScreenshot-removebg-preview_4: -3647676762224200944
+      ShrineScreenshot-removebg-preview_5: 4503491110381617094
+      ShrineScreenshot-removebg-preview_6: 4940834766713369374
+      ShrineScreenshot-removebg-preview_7: -820098090666740809
+      ShrineScreenshot-removebg-preview_8: 8424881872610338826
+      ShrineScreenshot-removebg-preview_9: -4012077507561734809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 75864ddbf1463bd4181f372c0b552934
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5172872833791211172
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_0
+  - first:
+      213: -3495016925011214798
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_1
+  - first:
+      213: -4145238531517280043
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_2
+  - first:
+      213: 5597525552923838949
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_3
+  - first:
+      213: 8677774993066833522
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_4
+  - first:
+      213: -3955036419184968348
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_5
+  - first:
+      213: 4743507795385286691
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_6
+  - first:
+      213: -8984263069302477216
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_7
+  - first:
+      213: -3526622245105342296
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_8
+  - first:
+      213: -7259754320797010314
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_9
+  - first:
+      213: -5526312430225560637
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_10
+  - first:
+      213: -2511293673566574669
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_11
+  - first:
+      213: -7925181876475708302
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_12
+  - first:
+      213: -7006920069782904974
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_13
+  - first:
+      213: -563524588074565368
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_14
+  - first:
+      213: 3772720043206680295
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_15
+  - first:
+      213: 2439959073567260313
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_16
+  - first:
+      213: 336353570436049507
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_17
+  - first:
+      213: 1459662465547557459
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_18
+  - first:
+      213: -4795778849317437480
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_19
+  - first:
+      213: 1438165410054859310
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_20
+  - first:
+      213: 2517095900701585837
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_21
+  - first:
+      213: -5980009211154061713
+    second: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c594b9190934638b0800000000000000
+      internalID: -5172872833791211172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e7ab4cf943f7fc0800000000000000
+      internalID: -3495016925011214798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d096ab94872976c0800000000000000
+      internalID: -4145238531517280043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9823b55d76ead40800000000000000
+      internalID: 5597525552923838949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276348e1166ad6870800000000000000
+      internalID: 8677774993066833522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d3fb8d453ec19c0800000000000000
+      internalID: -3955036419184968348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3208c3d253354d140800000000000000
+      internalID: 4743507795385286691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ea091d65c715380800000000000000
+      internalID: -8984263069302477216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8618fb0cbee0fc0800000000000000
+      internalID: -3526622245105342296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6767948b8eb204b90800000000000000
+      internalID: -7259754320797010314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb6496df189e43b0800000000000000
+      internalID: -5526312430225560637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7e06495b7162dd0800000000000000
+      internalID: -2511293673566574669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c3d40a219140290800000000000000
+      internalID: -7925181876475708302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fd80f125b62ce90800000000000000
+      internalID: -7006920069782904974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8010e917f55fd28f0800000000000000
+      internalID: -563524588074565368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee945cf3e46b5430800000000000000
+      internalID: 3772720043206680295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99eb77699d97cd120800000000000000
+      internalID: 2439959073567260313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a66cc4ac7faa400800000000000000
+      internalID: 336353570436049507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35adeee5743c14410800000000000000
+      internalID: 1459662465547557459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df3a11bb88f17db0800000000000000
+      internalID: -4795778849317437480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ae29a12d365f310800000000000000
+      internalID: 1438165410054859310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1f8e2b2658ee220800000000000000
+      internalID: 2517095900701585837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66299f4e4db20da0800000000000000
+      internalID: -5980009211154061713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_0: -5172872833791211172
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_1: -3495016925011214798
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_10: -5526312430225560637
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_11: -2511293673566574669
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_12: -7925181876475708302
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_13: -7006920069782904974
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_14: -563524588074565368
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_15: 3772720043206680295
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_16: 2439959073567260313
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_17: 336353570436049507
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_18: 1459662465547557459
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_19: -4795778849317437480
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_2: -4145238531517280043
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_20: 1438165410054859310
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_21: 2517095900701585837
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_22: -5980009211154061713
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_3: 5597525552923838949
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_4: 8677774993066833522
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_5: -3955036419184968348
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_6: 4743507795385286691
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_7: -8984263069302477216
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_8: -3526622245105342296
+      PC _ Computer - The Binding of Isaac_ Rebirth - Miscellaneous - UI Hearts_9: -7259754320797010314
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
